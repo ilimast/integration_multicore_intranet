@@ -10,9 +10,11 @@ La solución está diseñada bajo buenas prácticas de **arquitectura empresaria
 
 | Archivo | Descripción |
 |----------|-------------|
-| [Plataforma_Integracion_Bancaria_Arquitectura.pdf](Plataforma_Integracion_Bancaria_Arquitectura.pdf) | Documento principal con análisis técnico profundo, diagramas C4, patrones de integración, HA/DR, IAM y cumplimiento normativo. |
-| [Plataforma_Integracion_Bancaria.drawio](Plataforma_Integracion_Bancaria.drawio) | Archivo editable con todas las vistas arquitectónicas (niveles C4 y diagramas complementarios). |
-| [/exports](./exports) | Diagramas exportados en formato PNG para visualización rápida. |
+| [Plataforma_Integracion_Bancaria_Arquitectura.pdf](https://github.com/ilimast/integration_multicore_intranet/blob/main/Integration_Multicore_Intranet.pdf) | Documento principal con análisis técnico profundo, diagramas C4, patrones de integración, HA/DR, IAM y cumplimiento normativo. |
+| [Plataforma_Integracion_Bancaria.drawio](https://github.com/ilimast/integration_multicore_intranet/blob/main/Plataforma%20Integracion%20Multicore.drawio) | Archivo editable con todas las vistas arquitectónicas (niveles C4 y diagramas complementarios). |
+| [C4 Nivel 1.png](https://github.com/ilimast/integration_multicore_intranet/blob/main/Plataforma%20Integracion%20Multicore-C4%20-%20Nivel%201%20Contexto.png) | Diagrama Contexto |
+| [C4 Nivel 2.png](https://github.com/ilimast/integration_multicore_intranet/blob/main/Plataforma%20Integracion%20Multicore-C4%20Nivel%202%20Contenedores.jpg) | Diagrama Contenedores |
+| [C4 Nivel 3.png](https://github.com/ilimast/integration_multicore_intranet/blob/main/Plataforma%20Integracion%20Multicore-C4%20Nivel%203%20-%20Componente%20Orchestrator%20Service.jpg)| Diagrama de Componentes | 
 
 ---
 
